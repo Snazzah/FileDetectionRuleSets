@@ -1164,7 +1164,6 @@ PsPcSdkRuntimeInstaller_msi
 PsPcSdkRuntimeManager_msi
 PsPcSdkRuntimeManager_msig
 PsPcSdkRuntimeManagermsig
-PsPcSdkRuntimeManager_msig
 audiogroup1.datf
 AnyBrain.exe
 AnyBrain/Brain.dll
